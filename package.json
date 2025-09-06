@@ -1,0 +1,33 @@
+{
+  "name": "team-node",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node src/scripts/generateProducts.js",
+    "get-products-by-min-price": "node src/scripts/getProductsByMinPrice.js",
+    "get-total-price": "node src/scripts/getTotalPrice.js",
+    "get-unique-categories": "node src/scripts/getUniqueCategories.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daria-Holubenna/team-node.js.git"
+  },
+  "keywords": [],
+  "author": "DARIA_H <dholubenna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daria-Holubenna/team-node.js/issues"
+  },
+  "homepage": "https://github.com/Daria-Holubenna/team-node.js#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "@faker-js/faker": "^10.0.0",
+    "eslint": "^9.35.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.3.0",
+    "typescript-eslint": "^8.42.0"
+  }
+}
