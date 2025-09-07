@@ -38,5 +38,65 @@
     "name": "Frozen Bronze Computer",
     "price": "75.19",
     "category": "Movies"
+  },
+  {
+    "name": "Bespoke Wooden Towels",
+    "price": "273.05",
+    "category": "Baby",
+    "description": "New Chips model with 78 GB RAM, 498 GB storage, and unwelcome features"
+  },
+  {
+    "name": "Bespoke Gold Shoes",
+    "price": "545.14",
+    "category": "Kids",
+    "description": "Discover the upbeat new Tuna with an exciting mix of Steel ingredients"
+  },
+  {
+    "name": "Incredible Marble Pants",
+    "price": "346.79",
+    "category": "Toys",
+    "description": "New Hat model with 32 GB RAM, 423 GB storage, and somber features"
+  },
+  {
+    "name": "Elegant Marble Pants",
+    "price": "985.39",
+    "category": "Outdoors",
+    "description": "Experience the indigo brilliance of our Salad, perfect for frightened environments"
+  },
+  {
+    "name": "Handcrafted Wooden Salad",
+    "price": "849.15",
+    "category": "Home",
+    "description": "Introducing the Saudi Arabia-inspired Chicken, blending able style with local craftsmanship"
+  },
+  {
+    "name": "Awesome Granite Tuna",
+    "price": "93.39",
+    "category": "Grocery",
+    "description": "Introducing the American Samoa-inspired Salad, blending nifty style with local craftsmanship"
+  },
+  {
+    "name": "Soft Steel Salad",
+    "price": "846.89",
+    "category": "Kids",
+    "description": "The Georgianna Chair is the latest in a series of fluffy products from Stroman Inc"
+  },
+  {
+    "name": "Elegant Steel Soap",
+    "price": "112.90",
+    "category": "Outdoors",
+    "description": "The green Sausages combines Martinique aesthetics with Yttrium-based durability"
+  },
+  {
+    "name": "Generic Bronze Pants",
+    "price": "749.29",
+    "category": "Computers",
+    "description": "Professional-grade Chips perfect for well-groomed training and recreational use"
+  },
+  {
+    "name": "Bespoke Gold Pizza",
+    "price": "898.15",
+    "category": "Shoes",
+    "description": "Ergonomic Chicken made with Concrete for all-day inexperienced support"
   }
 ]
